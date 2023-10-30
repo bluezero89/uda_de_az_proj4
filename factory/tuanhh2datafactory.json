@@ -1,0 +1,9 @@
+{
+	"name": "tuanhh2datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e7c4645c-c7db-4654-ba7b-a02960f78b93",
+		"tenantId": "f01e930a-b52e-42b1-b70f-a8882b5d043b"
+	}
+}
